@@ -1,0 +1,7 @@
+simple structs
+
+(define-struct name
+  (immut immutable-field)
+  (mut mutable-field))
+
+[public domain]
